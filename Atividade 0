@@ -1,0 +1,12 @@
+a=20
+b=10
+
+echo "a = 20, b = 10"
+adicao=$[a + b]
+echo Adição = $adicao
+subtracao=$[a - b]
+echo Subtração = $subtracao
+divisao=$[a / b]
+echo Divisão = $divisao
+multiplicacao=$[a * b]
+echo Multiplicação = $multiplicacao
